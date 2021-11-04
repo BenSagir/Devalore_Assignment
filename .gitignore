@@ -20,7 +20,8 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-
+Devalore_Assignment.zip
+package-lock.json
 # Android/IntelliJ
 #
 build/
